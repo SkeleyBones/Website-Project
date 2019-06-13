@@ -2,7 +2,7 @@
 GENERAL STYLES
 ****************************/
 body {
-    font-family: 'Open Sans' , 'sans-serif'
+    font-family: 'Roboto Condensed', sans-serif;
 }
 
 a {
@@ -20,7 +20,7 @@ a {
 }
 
 img {
-    max-width: 10%;
+    max-width: 50%;
 }
 
 h3 {
@@ -53,10 +53,7 @@ Footer
     width: 20px;
     height: 20px;
     margin: 0  5px;
-
-
 }
-
 /******************************
 PAGE: ABOUT
 ******************************/
@@ -67,3 +64,6 @@ PAGE: ABOUT
     width: 50%;
     border-radius: 100%;
   }
+/******************************
+  TEXT:CENTER
+******************************/
